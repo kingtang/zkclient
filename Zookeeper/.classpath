@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.osgi_3.9.1.v20140110-1610.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.osgi.source_3.9.1.v20140110-1610.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.core.commands_3.6.100.v20130515-1857.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.core.commands.source_3.6.100.v20130515-1857.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.equinox.common.source_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.equinox.registry_3.5.301.v20130717-1549.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.equinox.registry.source_3.5.301.v20130717-1549.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.core.runtime_3.9.100.v20131218-1515.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.core.runtime.source_3.9.100.v20131218-1515.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.text_3.5.300.v20130515-1451.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.text.source_3.5.300.v20130515-1451.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64.source_3.102.1.v20140206-1358.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.jface_3.9.1.v20130725-1141.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.jface.source_3.9.1.v20130725-1141.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.jface.text_3.8.101.v20130802-1147.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.jface.text.source_3.8.101.v20130802-1147.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.ui.workbench.source_3.105.2.v20140211-1711.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/com.ibm.icu_50.1.1.v201304230130.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/com.ibm.icu.source_50.1.1.v201304230130.jar"/>
+	<classpathentry kind="lib" path="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.ui.forms_3.6.1.v20130822-1117.jar" sourcepath="D:/work-soft/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.ui.forms.source_3.6.1.v20130822-1117.jar"/>
+	<classpathentry kind="lib" path="lib/curator-framework-2.8.0.jar" sourcepath="E:/repository/maven/org/apache/curator/curator-framework/2.8.0/curator-framework-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.4.6.jar" sourcepath="E:/repository/maven/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/repository/maven/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/curator-client-2.8.0.jar" sourcepath="E:/repository/maven/org/apache/curator/curator-client/2.8.0/curator-client-2.8.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/repository/maven/org/apache/curator/curator-client/2.8.0/curator-client-2.8.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="lib/curator-recipes-2.8.0.jar" sourcepath="E:/repository/maven/org/apache/curator/curator-recipes/2.8.0/curator-recipes-2.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
