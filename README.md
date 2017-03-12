@@ -1,2 +1,2 @@
 # zookeeper client
-zk客户端图形化界面采用SWT实现
+zk客户端图形化界面采用SWT实现，移植的一款eclipse上zk客户端的插件
