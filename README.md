@@ -7,3 +7,5 @@
 3. 树形结构展示
 4. 能够连接多个服务端并展示
 5. 状态栏实时显示连接状态
+## 使用方法
+在tool目录下面已经有可运行的jar文件Zookeeper_client.jar，打开cmd命名窗口直接java -jar Zookeeper_client.jar即可。
